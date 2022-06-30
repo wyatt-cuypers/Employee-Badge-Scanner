@@ -1,0 +1,21 @@
+C:\Users\wodeeken\source\repos\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\bin\Debug\Employee Badge Scanner.exe.config
+C:\Users\wodeeken\source\repos\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\bin\Debug\Employee Badge Scanner.exe
+C:\Users\wodeeken\source\repos\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\bin\Debug\Employee Badge Scanner.pdb
+C:\Users\wodeeken\source\repos\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee Badge Scanner.csproj.AssemblyReference.cache
+C:\Users\wodeeken\source\repos\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee_Badge_Scanner.MainForm.resources
+C:\Users\wodeeken\source\repos\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee_Badge_Scanner.Properties.Resources.resources
+C:\Users\wodeeken\source\repos\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee Badge Scanner.csproj.GenerateResource.cache
+C:\Users\wodeeken\source\repos\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee Badge Scanner.csproj.CoreCompileInputs.cache
+C:\Users\wodeeken\source\repos\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee Badge Scanner.exe
+C:\Users\wodeeken\source\repos\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee Badge Scanner.pdb
+H:\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\bin\Debug\Employee Badge Scanner.exe.config
+H:\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\bin\Debug\Employee Badge Scanner.exe
+H:\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\bin\Debug\Employee Badge Scanner.pdb
+H:\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee_Badge_Scanner.MainForm.resources
+H:\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee_Badge_Scanner.Properties.Resources.resources
+H:\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee Badge Scanner.csproj.GenerateResource.cache
+H:\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee Badge Scanner.csproj.CoreCompileInputs.cache
+H:\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee Badge Scanner.exe
+H:\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee Badge Scanner.pdb
+H:\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee Badge Scanner.csproj.AssemblyReference.cache
+H:\employee-badge-scanner\Employee Badge Scanner\Employee Badge Scanner\obj\Debug\Employee_Badge_Scanner.databaseConnection.resources

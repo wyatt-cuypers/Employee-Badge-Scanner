@@ -1,0 +1,3 @@
+Server=comsql
+User=pwnt_reader
+Password=reader

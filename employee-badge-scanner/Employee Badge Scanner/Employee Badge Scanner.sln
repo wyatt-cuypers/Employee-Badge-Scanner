@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee Badge Scanner", "Employee Badge Scanner\Employee Badge Scanner.csproj", "{F1B38D6C-FD12-47FC-9762-682EDEF5A985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B38D6C-FD12-47FC-9762-682EDEF5A985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B38D6C-FD12-47FC-9762-682EDEF5A985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B38D6C-FD12-47FC-9762-682EDEF5A985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B38D6C-FD12-47FC-9762-682EDEF5A985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72E289CC-23A6-48A9-BE0B-0C2A48F17874}
+	EndGlobalSection
+EndGlobal
