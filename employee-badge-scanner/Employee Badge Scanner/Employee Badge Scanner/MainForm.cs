@@ -27,7 +27,6 @@ namespace Employee_Badge_Scanner
         private bool CurrentlyLogging;
         public static string csvPath = Directory.GetCurrentDirectory() + "..\\..\\..\\Badge List.csv";
         public static string settingsPath = Directory.GetCurrentDirectory()   + "..\\..\\..\\settings.txt";
-        public static string logPath = Directory.GetCurrentDirectory() + "..\\..\\..\\Logs\\" + DateTime.Now.ToString("yyyyMMdd") + ".txt";
         public static StreamReader sr = new StreamReader(File.OpenRead(csvPath));
         public static List<string> list = new List<string>();
         public static int cardValue;
@@ -262,17 +261,13 @@ namespace Employee_Badge_Scanner
             if (!lst.Items.Contains("Employee Name: " + str2 + " - Employee ID: " + str + " - Status: " + status + "\n") && str != "0")
             {
                 lst.Items.Add("Employee Name: " + str2 + " - Employee ID: " + str + " - Status: " + status + "\n");
-                if (!File.Exists(logPath))
-                {
-                    File.Create(logPath);
-                }
                 if (str2 == "Employee Does Not Exist")
                 {
                     return;
                 }
                 else
                 {
-                    File.AppendAllText(logPath, DateTime.Now + " - Employee Name: " + str2 + "\t- Employee ID: " + str + " - Status: " + status + "\n");
+                    File.AppendAllText(Directory.GetCurrentDirectory() + "..\\..\\..\\Logs\\" + DateTime.Now.ToString("yyyyMMdd") + ".txt", DateTime.Now + " - Employee Name: " + str2 + "\t- Employee ID: " + str + " - Status: " + status + "\n");
                 }
             }
     }
